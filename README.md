@@ -98,24 +98,6 @@ South Africa (2030) → \~**92% population with some education** (predicted).
 
 ---
 
-## 📌 Future Improvements
-
-* Add more countries & regional grouping (Africa, Asia, Europe).
-* Try **Time Series models (ARIMA, Prophet)** for better forecasting.
-* Build a **public dashboard** in Power BI / Looker Studio with global filters.
-* Deploy an interactive dashboard using **Streamlit** or **Dash**.
-
----
-
-## 📚 References
-
-* Kaggle - Global Education Dataset
-* World Bank Education Statistics
-
----
-
 ## 👨‍💻 Author
 
 **Kagiso** – Data Analyst | Aspiring Data Scientist
-
-* Kaggle: [your-kaggle-profile](https://kaggle.com/your-kaggle-profile)
